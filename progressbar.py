@@ -1,5 +1,5 @@
-#!/usr/bin/python
-# -*- coding: iso-8859-1 -*-
+!!/usr/bin/python
+##-*-!coding:*iso-8859-1 -*-
 #
 # progressbar  - Text progressbar library for python.
 # Copyright (c) 2005 Nilton Volpato
@@ -418,3 +418,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+ 
